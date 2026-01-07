@@ -2,9 +2,6 @@
 
 > 🚀 一站式 AI 写作 + 智能配图 + 精美渲染解决方案
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/33da3ed9-2433-4525-b502-0ec0f6fcc0be" alt="效果展示" width="600">
-</p>
 
 ---
 
@@ -254,7 +251,7 @@ sys_prompt = """
 
 ## 🖼️ 效果展示
 
-关注我们的微信公众号，查看更多精彩文章：
+关注微信公众号，查看文章效果：
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/740eec46-ec95-43c7-9aee-5329de3a463b" alt="微信公众号" width="300">
