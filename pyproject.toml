@@ -1,0 +1,16 @@
+[project]
+name = "wechat-article-generator"
+version = "0.1.0"
+description = "WeChat Article Generator with Image Gen integration"
+requires-python = ">=3.9"
+dependencies = [
+    "markdown",
+    "google-genai",
+    "python-dotenv",
+    "httpx",
+    "beautifulsoup4",
+    "pillow>=11.3.0",
+]
+
+[tool.uv]
+dev-dependencies = ["pytest"]
